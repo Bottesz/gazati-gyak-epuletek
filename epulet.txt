@@ -1,0 +1,9 @@
+név$város$ország$magasság(m)$emelet$épült
+Avaz Twist$Szarajevó$Bosznia-Hercegovina$272$40$2007
+Avenue, 17 block$Moszkva$Oroszország$155$43$2008
+Broadgate Tower$London$Anglia$164,3$35$2007
+Centrum LIM$Varsó$Lengyelország$140$43$1989
+Avenue, 57 block$Berlin$Németország$155$43$2008
+Federation Tower: East Tower$Moszkva$Oroszország$373,7$95$2016
+Avenuelock$Berlin$Németország$15$43$2008
+Avenue, 11 block$Hamburg$Németország$155$43$2008
